@@ -59,3 +59,7 @@ Developed by:PARAVEZHAA M RegisterNumber:212225220070
 <img width="1409" height="790" alt="image" src="https://github.com/user-attachments/assets/1a3c16c8-b62c-4fcb-acfe-4616c37ec0a2" />
 
 **RESULTS**
+ Thus the verilog gate level code is to implement SISO Shift Register using verilog and validating their functionality using their functional tables is done.
+
+ .
+ .
